@@ -10,22 +10,21 @@
 
 A little about me:
 
-- 🇧🇷  Recife, **Brazil**.
-- 🎓  I’m a Computer Engineer who uses the **Learn By Doing** method.
-- 🖥️  I’m currently working mainly with **Python**, **GCP** and **Kubernetes**.
-- 🪔  I’m a believer in the saying that **DATA IS THE NEW OIL**.
+- 🇧🇷  Recife, **Brazil** – working for – 🇺🇸 San Francisco, California, **USA**
+- 🎓  Computer Engineer who uses the **Learn By Doing** method.
+- 🖥️  Focused on Back-end and Cloud technologies over the last 4 years.
+- 🪔  Working mainly with **Python**, **AWS** and **Kubernetes**.
 
 ### ⚡ Skills:
 - ![Backend](https://img.shields.io/badge/-Backend-blue)
   ![Cloud](https://img.shields.io/badge/-Cloud-yellowgreen)
   ![SQL](https://img.shields.io/badge/-SQL-gray)
-  ![Data](https://img.shields.io/badge/-Data-red)
 
 ### 🛠 Tools:
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=323330)
+- ![Python](https://img.shields.io/badge/-Python-FFD43B?&logo=python&logoColor=3776AB)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=323330)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=FFFFFF)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=nodedotjs&logoColor=FFFFFF)
-  ![Python](https://img.shields.io/badge/-Python-FFD43B?&logo=python&logoColor=3776AB)
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazonaws&logoColor=FFFFFF)
   ![Amazon S3](https://img.shields.io/badge/-AmazonS3-569A31?&logo=amazons3&logoColor=FFFFFF)
   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?&logo=amazondynamodb&logoColor=FFFFFF)
